@@ -1,6 +1,6 @@
 # Quality-of-Software-Academic-Productivity-System
 
-#### 1. Tratamento de Exceções implementado em CriarProjeto->valorFinanciado (InputMismatchException errorDouble) e EditarProjeto->valorFinanciado
+#### 1. Tratamento de Exceções implementado em CriarProjeto, EditarProjeto -> valorFinanciado (InputMismatchException errorDouble)
 
 #### 2. Padrão de Projeto State implementado em Status da Classe Projeto
 
